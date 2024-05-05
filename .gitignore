@@ -1,0 +1,5 @@
+/app copy.log
+/test_gemini.py
+/test_helloworld.py
+/test_VertexAI.py
+/_API_Keys.env
